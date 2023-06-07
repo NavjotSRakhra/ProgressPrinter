@@ -1,7 +1,5 @@
 package io.github.NavjotSRakhra.progressPrinter;
 
-import java.io.OutputStream;
-
 public class ProgressPrinter {
     private final int progressBarSize;
     private final char completeCharacter, incompleteCharacter;
