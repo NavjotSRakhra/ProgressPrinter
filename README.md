@@ -27,11 +27,11 @@ ASCII characters to print the progress along with the progress percentage.
 The project is build using OpenJDK 11 and is compatible with Java 11+. It is available on Maven central and can be used
 by entering the following into `<dependencies>` tag in maven
 ```xml
-<plugin>
+<dependency>
     <groupId>io.github.NavjotSRakhra</groupId>
     <artifactId>ProgressPrinter</artifactId>
     <version>1.0.0</version>
-</plugin>
+</dependency>
 ```
 To use it create an instance of `ProgressPrinter` and update the process completion in fraction. Following is a sample code
 
