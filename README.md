@@ -2,6 +2,16 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.NavjotSRakhra/ProgressPrinter.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.NavjotSRakhra%22%20AND%20a:%22ProgressPrinter%22)
 [![javadoc](https://javadoc.io/badge2/io.github.NavjotSRakhra/ProgressPrinter/javadoc.svg)](https://javadoc.io/doc/io.github.NavjotSRakhra/ProgressPrinter)
+
+<!-- TOC -->
+* [Progress Printer - A console progress bar in Java](#progress-printer---a-console-progress-bar-in-java)
+  * [Introduction](#introduction)
+  * [Preview](#preview)
+  * [Project setup](#project-setup)
+    * [Documentation](#documentation-)
+  * [License](#license)
+<!-- TOC -->
+
 ## Introduction
 
 I needed a tool to display the process of training of my neural network. So I searched on GitHub and there were no simple
